@@ -7,4 +7,4 @@ I made a few tweaks to build and fly to my taste.
 
 Well, Joop's Explanations were great, but a little technical for me. I had to rewatch a ton of times especially the IMU section.
 
-You might like my [overview](www.nelsonelijah.com/project/myquad)
+You might like my [overview](https://www.nelsonelijah.com/project/myquad)
